@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey, I'm Angel!
+ California-based here and making a full-time push into cybersecurity.. focusing on GRC. This is where I document 
+my journey, notes, labs, and projects as I go :)
 
 <!--
 **ramosangel1/ramosangel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
